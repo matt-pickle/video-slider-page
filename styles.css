@@ -62,6 +62,12 @@ button {
   opacity: .8;
 }
 
+.story__disabled {
+  opacity: 25%;
+  pointer-events: none;
+  cursor: auto;
+}
+
 .story__title {
   font-family: Roboto, sans-serif;
   font-size: 46px;
